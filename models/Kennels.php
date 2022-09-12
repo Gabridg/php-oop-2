@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . '/Products.php';
+
 class Kennels extends Products{
     public $size;
     public $weight;

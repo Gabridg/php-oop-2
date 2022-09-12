@@ -1,4 +1,6 @@
 <?php
+require_once __DIR__ . '/Products.php';
+
 class Games extends Products{
     public $size;
 
