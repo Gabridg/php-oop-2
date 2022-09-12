@@ -5,7 +5,8 @@ class Products{
     public $image;
     public $description;
     
-    public function __construct($name, $price, $image, $description)
+    public function __construct($name, $price, $image, $description){
+        
 }
 
 ?>
